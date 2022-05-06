@@ -20,14 +20,14 @@
     <price>19500.00</price>
     <first_registered>12/2015</first_registered>
     <mileage>132 133 km</mileage>
-    <mileage_search>132133</mileage_search>
+    <mileage_search>132133.00</mileage_search>
     <license_plate>ND3795</license_plate>
     <vin_code>SHSRE6890FU512585</vin_code>
     <technical_inspection>04/2023</technical_inspection>
     <displacement>1600 cm³</displacement>
     <fuel>diesel</fuel>
     <power>160 hp (118 kW)</power>
-    <power_search>118</power_search>
+    <power_search>118.00</power_search>
     <car_color>red</car_color>
     <body_style>suv</body_style>
     <doors>4/5 doors</doors>
@@ -69,14 +69,14 @@
     <price>25950.00</price>
     <first_registered>10/2017</first_registered>
     <mileage>109 749 km</mileage>
-    <mileage_search>109749</mileage_search>
+    <mileage_search>109749.00</mileage_search>
     <license_plate>MFU551</license_plate>
     <vin_code>WVGZZZ5NZJW840265</vin_code>
     <technical_inspection>10/2022</technical_inspection>
     <displacement>1968 cm³</displacement>
     <fuel>diesel</fuel>
     <power>150 hp (110 kW)</power>
-    <power_search>110</power_search>
+    <power_search>110.00</power_search>
     <car_color>black</car_color>
     <body_style>suv</body_style>
     <doors>4/5 doors</doors>
@@ -118,14 +118,14 @@
     <price>12000.00</price>
     <first_registered>06/2016</first_registered>
     <mileage>151 620 km</mileage>
-    <mileage_search>151620</mileage_search>
+    <mileage_search>151620.00</mileage_search>
     <license_plate>G0239974</license_plate>
     <vin_code>TMBJG7NE9G0239974</vin_code>
     <technical_inspection>05/2023</technical_inspection>
     <displacement>1600 cm³</displacement>
     <fuel>diesel</fuel>
     <power>110 hp (81 kW)</power>
-    <power_search>81</power_search>
+    <power_search>81.00</power_search>
     <car_color>white</car_color>
     <body_style>wagon</body_style>
     <doors>4/5 doors</doors>
